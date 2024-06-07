@@ -1,3 +1,13 @@
+
+Trello Board Clone (UI Only)
+
+This project based on i learn ReactJS.
+Thanks to Remote Dev to mentor me
+
+
+![Desktop Screenshot 2024 06 07 - 13 58 10 00](https://github.com/Lienardyx/ui-trello-clone/assets/163678019/fc16f789-29c0-4000-a777-afc466b61494)
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
